@@ -1,0 +1,100 @@
+
+
+
+header{
+  
+ 
+  width: 100%;
+   position: fixed;
+  z-index: 1;
+display:inline-block;
+
+
+}
+
+header2 ul2 {
+  display: inline-block;
+  list-style-type: none;
+  margin text-size-adjust;
+  text-align: right;
+
+} 
+ 
+header2 ul2 a{
+  display: inline-block table-cell;
+ margin text-align: right;
+text-align: right;
+color: green;
+text-decoration: none;
+
+
+}
+header ul li {
+  display: list-item;
+  padding: 0em;
+  text-transform: uppercase;
+  display: table-column-list;
+  
+  
+  
+}
+
+header ul li a hover{
+  background-color: green;
+  border-color: lime;
+
+}
+
+.titulo {
+  font-size: 77px;text-shadow: 0px 10px 7px brown;
+}
+
+.texto{
+
+color:rgba(255,255,255,255.0);
+background:rgba(0,0,255,0.3);
+}
+.titulo2 {
+  font-size: 55px;text-shadow: 0px 10px 5px brown;
+}
+
+.texto2{
+
+color:rgba(255,255,255,255.0);
+background:rgba(255,0,0,0.2);
+}
+
+.titulo3 {
+  font-size: 58px;text-shadow: 13px 13px 15px blue;color: rgba(0,0,255,0.7) ;
+}
+
+.texto3{
+
+color:rgba(255,255,255,255.0);
+background:rgba(0,0,255,0.5);
+}
+
+.title {
+  font-size: 77px;text-shadow: 13px 13px 15px center;color: rgba(0,0,255,0.7) ;
+}
+
+
+.consult-phone {
+font-size: 60px;text-shadow: 13px 13px 15px center;color: rgba(0,0,255,0.4) ;
+}
+
+.title1 {
+  font-size: 20px;text-shadow: 13px 13px 15px center;color: rgba(0,0,255,0.7) ;
+}
+
+.title2 {
+  font-size: 15px;text-shadow: 13px 13px 15px center;color: rgba(0,0,255,0.7) ;
+}
+
+.title3 {
+  font-size: 30px;text-shadow: 13px 13px 15px center;color: rgba(0,0,255,0.7) ;
+}
+
+.todo {
+  center
+}
